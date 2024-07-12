@@ -1,2 +1,2 @@
 # Azure
-Creating Virtual Machines on Microsoft Azure
+Deploying Virtual Machines and Networks on Microsoft Azure
