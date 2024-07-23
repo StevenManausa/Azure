@@ -3,7 +3,7 @@
 </p>
 <br>
 <h1>Deploying Virtual Machines on Microsoft Azure</h1>
-This tutorial offers a brief overview on how virtual machines are created using the Azure portal. Once the VMs are launched, I then demonstrate how internet traffic between the host system and virtual system can be analyzed using Wireshark.<br />
+This tutorial offers a brief overview on how virtual machines are created using the Azure portal. Once the VMs are launched, Wireshark is then used to analyze network traffic traveling between both the virtual system and the host system.<br />
 
 
 <h2>Video Demonstration</h2>
@@ -13,21 +13,19 @@ This tutorial offers a brief overview on how virtual machines are created using 
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (web portal)
 - Remote Desktop
-- Internet Information Services (IIS)
+- Wireshark
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 11</b> (22H2)
 
-<h2>List of Prerequisites</h2>
+<h2>Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- An active membership with Microsoft Azure with at least $20 in credits
+- ≥ 8 GB RAM (or expanded paging file)
+
 
 <h2>Installation Steps</h2>
 
