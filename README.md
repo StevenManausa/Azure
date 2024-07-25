@@ -14,7 +14,7 @@ This tutorial offers a brief overview on how virtual machines are created using 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (web portal)
-- Remote Desktop
+- Remote Desktop Connection
 - Wireshark
 
 <h2>Operating Systems Used </h2>
